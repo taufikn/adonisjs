@@ -1,4 +1,4 @@
-# Adonis fullstack application
+# Adonis CRUD
 
 AdonisJS V4.
 
@@ -45,6 +45,9 @@ adonis new yardstick
 
 or manually clone the repo and then run `npm install`.
 
+```bash
+adonis install @adonisjs/validator
+```
 
 ### Migrations
 
