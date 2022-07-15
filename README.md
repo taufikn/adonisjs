@@ -18,13 +18,10 @@ This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 The only dependencies of the framework are Node.js and npm.
 Ensure your versions of those tools match the following criteria:
 
-Node.js >= 8.0.0
-
-npm >= 3.0.0
-
-git
-
-Mysql >=5
+* Node.js >= 8.0.0
+* npm >= 3.0.0
+* git
+* Mysql >=5
 
 ## Installing AdonisJs
 
