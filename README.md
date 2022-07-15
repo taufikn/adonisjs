@@ -1,5 +1,7 @@
 # Adonis fullstack application
 
+AdonisJS V4.
+
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
 1. Bodyparser
@@ -10,6 +12,31 @@ This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 6. Edge template engine
 7. Lucid ORM
 8. Migrations and seeds
+
+## System Requirements
+
+The only dependencies of the framework are Node.js and npm.
+Ensure your versions of those tools match the following criteria:
+
+Node.js >= 8.0.0
+
+npm >= 3.0.0
+
+git
+
+Mysql >=5
+
+## Installing AdonisJs
+
+### Via AdonisJs CLI
+
+AdonisJs CLI is a command line tool to help you install AdonisJs.
+
+Install it globally via npm like so:
+
+```bash
+ npm i -g @adonisjs/cli
+ ```
 
 ## Setup
 
